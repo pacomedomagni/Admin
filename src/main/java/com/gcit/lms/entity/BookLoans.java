@@ -20,6 +20,7 @@ public class BookLoans implements Serializable{
 	private String dateOut;
 	private String dateIn;
 	private String dueDate;
+	private int o;
 	/**
 	 * @return the bookId
 	 */
