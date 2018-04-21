@@ -10,6 +10,7 @@ public class AdmiApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		//
 	}
 
 }
